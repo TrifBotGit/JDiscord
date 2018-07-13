@@ -1,4 +1,4 @@
-package com.project.JDiscord.com.project.JDiscord.model;
+package com.project.JDiscord.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
